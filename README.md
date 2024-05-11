@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Tiliane
+- 👀 I’m interested in ...learning
+- 🌱 I’m currently learning ...about API
+- 💞️ I’m looking to collaborate on ...humanity
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...i just parachuted here
+
+<!---
+Tiliane/Tiliane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
