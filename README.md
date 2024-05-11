@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tiliane
+- 👋 Hi, I’m @Tiliane just becuse all names wasnt accepting but my name is Eliane
 - 👀 I’m interested in ...learning
 - 🌱 I’m currently learning ...about API
 - 💞️ I’m looking to collaborate on ...humanity
